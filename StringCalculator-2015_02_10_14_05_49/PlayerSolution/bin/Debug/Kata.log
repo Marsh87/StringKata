@@ -1,0 +1,141 @@
+2015-02-10 14:08:18.575: [INFO] - (Green) Kata Changes - Player Test State: Green
+Welcome - Please write your first test to start the Kata…
+Your first test is: Return zero when an empty string is passed in
+2015-02-10 14:13:02.695: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 14:14:23.895: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the integer value of the numeric string
+2015-02-10 14:16:15.095: [INFO] - (Red) Kata Changes - Player Test State: Green
+WHOA! Slow down.. you are writing code without the appropriate test in place.
+You should only be implementing: Return zero when an empty string is passed in
+But, you have implemented: Return the integer value of the numeric string
+2015-02-10 14:18:04.290: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the integer value of the numeric string
+2015-02-10 14:21:59.531: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 14:22:51.751: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Sum two numbers
+2015-02-10 14:25:27.000: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Sum two numbers
+2015-02-10 14:28:38.258: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 14:29:17.497: [INFO] - (Green) Kata Changes - Player Test State: Green
+Ok, your test is passing now but your implementation is very specific.
+Please write another test scenario to improve the implementation.
+
+2015-02-10 14:31:06.749: [INFO] - (Red) Kata Changes - Player Test State: Red
+You are testing too much, is there a simpler test you can write?
+You should be testing: Sum two numbers
+But, you appear to be testing: Sum all numbers separated by a comma(',')
+2015-02-10 14:34:12.058: [INFO] - (Green) Kata Changes - Player Test State: Green
+Ok, your test is passing now but your implementation is very specific.
+Please write another test scenario to improve the implementation.
+
+2015-02-10 14:35:38.372: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 14:41:54.609: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 14:43:09.830: [INFO] - (Red) Kata Changes - Player Test State: Green
+WHOA! Slow down.. you are writing code without the appropriate test in place.
+You should only be implementing: Sum two numbers
+But, you have implemented: Sum all numbers separated by a comma(',')
+2015-02-10 14:45:14.105: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Sum all numbers separated by a comma(',')
+2015-02-10 14:50:15.333: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Sum all numbers separated by a comma(',')
+2015-02-10 14:54:05.594: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 14:55:01.814: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-02-10 15:03:15.127: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 15:03:45.354: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Handle a single custom delimiter
+2015-02-10 15:08:01.650: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 15:19:53.892: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-10 15:24:14.125: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 15:24:49.404: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 15:28:04.725: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-10 15:33:43.957: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-10 15:34:06.192: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-10 15:38:01.526: [INFO] - (Red) Kata Changes - Player Test State: Red
+You are testing too much, is there a simpler test you can write?
+You should be testing: Handle both commas(',') and new lines('\n') as delimiters
+But, you appear to be testing: Handle a single custom delimiter
+2015-02-10 15:38:22.763: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-10 15:39:36.990: [INFO] - (Green) Kata Changes - Player Test State: Green
+Ok, your test is passing now but your implementation is very specific.
+Please write another test scenario to improve the implementation.
+
+2015-02-10 15:39:55.232: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-10 15:40:53.466: [INFO] - (Green) Kata Changes - Player Test State: Green
+Nice - Now would be the time to refactor before continuing on to the next test…
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-10 15:47:43.703: [INFO] - (Red) Kata Changes - Player Test State: Red
+You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+
+2015-02-10 15:50:23.953: [INFO] - (Red) Kata Changes - Player Test State: Red
+You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+
+2015-02-10 15:51:03.196: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 15:53:27.427: [INFO] - (Green) Kata Changes - Player Test State: Green
+Ok, your test is passing now but your implementation is very specific.
+Please write another test scenario to improve the implementation.
+
+2015-02-10 15:56:36.661: [INFO] - (Green) Kata Changes - Player Test State: Green
+Ok, your test is passing now but your implementation is very specific.
+Please write another test scenario to improve the implementation.
+
+2015-02-10 15:57:39.904: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 16:01:51.144: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 16:04:47.389: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+
+2015-02-10 16:12:57.415: [INFO] - (Red) Kata Changes - Player Test State: Red
+You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Return the negative number using the provided NegativesNotAllowedException
+2015-02-10 16:13:55.632: [INFO] - (Green) Kata Changes - Player Test State: Red
+Looking good - Continue on to writing the implementation…
+

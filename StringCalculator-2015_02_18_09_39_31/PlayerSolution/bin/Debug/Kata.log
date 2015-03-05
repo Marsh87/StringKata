@@ -1,0 +1,27 @@
+2015-02-18 09:44:08.145: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 09:45:24.311: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Return the integer value of the numeric string
+2015-02-18 09:45:27.319: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 09:47:02.667: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-18 09:47:07.707: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 09:49:36.022: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-18 09:49:40.258: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Sum two numbers
+2015-02-18 09:52:05.055: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 09:52:09.339: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-18 10:00:52.262: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 10:00:57.804: [INFO] - (Warning) Kata Changes - Oops, it looks like you’ve broken a previously passing test!
+2015-02-18 10:04:35.121: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum all numbers separated by a comma(',')

@@ -1,0 +1,135 @@
+2015-02-16 09:32:39.127: [INFO] - (TwoThumbs) Kata Changes - Welcome - Please write your first test to start the Kata…
+Your first test is: Return zero when an empty string is passed in
+2015-02-16 09:39:33.329: [INFO] - (Warning) Kata Changes - ????? Please send your current Kata state to us so that we can figure things out.
+
+2015-02-16 09:41:21.554: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 09:43:21.764: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return the integer value of the numeric string
+2015-02-16 09:46:56.965: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 09:47:45.173: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum two numbers
+2015-02-16 09:52:06.373: [INFO] - (Warning) Kata Changes - ????? Please send your current Kata state to us so that we can figure things out.
+
+2015-02-16 09:56:01.610: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 09:56:37.822: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 09:57:48.034: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 09:58:21.258: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 09:59:51.476: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Sum two numbers
+2015-02-16 10:02:05.727: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 10:02:37.948: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 10:03:35.171: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Sum two numbers
+But, you appear to be testing: Sum all numbers separated by a comma(',')
+2015-02-16 10:03:58.394: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 10:04:22.612: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 10:06:16.837: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 10:06:41.057: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 10:08:30.297: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 10:09:24.527: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+
+
+2015-02-16 10:09:46.737: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 10:10:13.962: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 10:10:57.177: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 10:11:27.390: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 10:23:27.584: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum two numbers
+2015-02-16 10:25:01.801: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum two numbers
+2015-02-16 10:25:27.084: [INFO] - (Warning) Kata Changes - WHOA! Slow down.. you are writing code without the appropriate test in place.
+You should only be implementing: Sum two numbers
+But, you have implemented: Sum all numbers separated by a comma(',')
+2015-02-16 10:31:52.311: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum two numbers
+2015-02-16 10:39:37.491: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 10:44:28.738: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 10:45:15.999: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Sum all numbers separated by a comma(',')
+2015-02-16 10:52:46.215: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Sum all numbers separated by a comma(',')
+2015-02-16 10:54:15.447: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 10:58:25.683: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 11:02:02.906: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-02-16 11:02:43.120: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-02-16 11:06:45.344: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-02-16 11:09:18.571: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 11:09:50.787: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle a single custom delimiter
+2015-02-16 11:14:09.003: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 11:18:41.225: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-16 11:20:33.450: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-02-16 11:32:34.643: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 11:33:48.878: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 11:36:45.108: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 11:37:48.348: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 11:38:49.579: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 11:45:49.802: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 11:47:26.055: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write another test so that you can write a more generic implementation.
+
+2015-02-16 11:52:16.296: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-16 11:58:21.519: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-02-16 12:01:33.754: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-02-16 12:04:23.988: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+

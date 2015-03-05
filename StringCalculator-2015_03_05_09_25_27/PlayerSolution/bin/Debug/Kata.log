@@ -1,0 +1,16 @@
+2015-03-05 09:26:49.348: [INFO] - (TwoThumbs) Kata Changes - Welcome - Please write your first test to start the Kata...
+Your first test is: Return zero when an empty string is passed in
+2015-03-05 09:28:30.583: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-05 09:28:51.806: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Return the integer value of the numeric string
+2015-03-05 09:29:35.032: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-05 09:29:57.261: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-05 09:30:21.484: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-05 09:30:38.706: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+

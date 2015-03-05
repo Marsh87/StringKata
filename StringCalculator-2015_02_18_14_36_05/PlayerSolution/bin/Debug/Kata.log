@@ -1,0 +1,34 @@
+2015-02-18 14:36:51.845: [INFO] - (TwoThumbs) Kata Changes - Welcome - Please write your first test to start the Kata...
+Your first test is: Return zero when an empty string is passed in
+2015-02-18 14:38:37.111: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 14:39:01.332: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Return the integer value of the numeric string
+2015-02-18 14:40:09.587: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 14:41:04.850: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-18 14:41:33.087: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 14:41:48.371: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-18 14:42:15.622: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 14:42:33.846: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-18 14:43:09.082: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Sum two numbers
+2015-02-18 14:44:10.326: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 14:44:26.566: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-18 14:44:57.809: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-18 14:45:21.052: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-18 14:47:39.295: [INFO] - (Warning) Kata Changes - Oops, it looks like you’ve broken a previously passing test!

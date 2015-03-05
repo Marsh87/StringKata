@@ -1,0 +1,118 @@
+2015-03-02 15:04:12.496: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 15:04:42.793: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Return the integer value of the numeric string
+2015-03-02 15:05:27.027: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 15:05:59.247: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-02 15:06:36.482: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 15:06:55.703: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-02 15:08:03.003: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Sum numbers separated by comma
+2015-03-02 15:09:48.238: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 15:10:11.468: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-02 15:11:03.707: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 15:14:29.926: [INFO] - (Warning) Kata Changes - Oops, it looks like you’ve broken a previously passing test!
+2015-03-02 15:15:29.149: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum numbers separated by comma
+2015-03-02 15:17:01.369: [INFO] - (Warning) Kata Changes - Unknown kata state
+
+2015-03-02 15:18:08.600: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum numbers separated by comma
+2015-03-02 15:21:21.819: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 15:21:55.053: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-03-02 15:26:23.288: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-03-02 15:27:13.565: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 15:27:45.799: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle a single custom delimiter e.g. //;\n1;2
+2015-03-02 15:28:52.042: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 15:30:45.271: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-03-02 15:31:39.507: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-03-02 15:59:31.740: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-02 16:09:19.996: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 16:10:01.233: [INFO] - (Warning) Kata Changes - You have a passing test, but there may be an issue with it!
+Please ensure your test is correct.
+
+2015-03-02 16:11:41.479: [INFO] - (Warning) Kata Changes - You have a passing test, but there may be an issue with it!
+Please ensure your test is correct.
+
+2015-03-02 16:13:25.721: [INFO] - (Warning) Kata Changes - You have a passing test, but there may be an issue with it!
+Please ensure your test is correct.
+
+2015-03-02 16:18:06.967: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 16:23:24.211: [INFO] - (Warning) Kata Changes - You have a passing test, but there may be an issue with it!
+Please ensure your test is correct.
+
+2015-03-02 16:26:25.467: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 16:42:46.717: [INFO] - (Warning) Kata Changes - You have a passing test, but there may be an issue with it!
+Please ensure your test is correct.
+
+2015-03-02 16:55:14.969: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 16:57:18.197: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 17:02:46.429: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 17:03:39.678: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 17:06:30.950: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 17:07:45.207: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 17:09:25.461: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-02 17:10:53.711: [INFO] - (Warning) Kata Changes - You have a passing test, but there may be an issue with it!
+Please ensure your test is correct.
+

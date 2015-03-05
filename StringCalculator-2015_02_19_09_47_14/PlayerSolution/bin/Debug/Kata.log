@@ -1,0 +1,57 @@
+2015-02-19 09:47:35.974: [INFO] - (TwoThumbs) Kata Changes - Welcome - Please write your first test to start the Kata...
+Your first test is: Return zero when an empty string is passed in
+2015-02-19 09:48:55.211: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-19 09:49:15.426: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Return the integer value of the numeric string
+2015-02-19 09:50:15.725: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-19 09:50:56.949: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-19 09:52:52.191: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-19 09:53:10.421: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-19 09:53:40.652: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-19 09:54:08.885: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-19 09:54:53.110: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Sum two numbers
+2015-02-19 09:55:54.359: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-19 09:56:24.589: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-19 09:56:55.831: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-19 09:57:18.050: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-19 09:57:44.276: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-02-19 09:58:05.507: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-19 10:00:26.730: [INFO] - (Warning) Kata Changes - Unknown kata state
+
+2015-02-19 10:06:47.966: [INFO] - (Warning) Kata Changes - Unknown kata state
+
+2015-02-19 10:08:38.195: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum two numbers
+2015-02-19 10:09:51.432: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum two numbers
+2015-02-19 10:10:36.653: [INFO] - (Warning) Kata Changes - You are testing too much, is there a simpler test you can write?
+You should be testing: Return the integer value of the numeric string
+But, you appear to be testing: Sum two numbers
+2015-02-19 10:10:50.865: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-02-19 10:11:44.190: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
