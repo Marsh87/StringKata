@@ -1,0 +1,90 @@
+2015-03-12 11:04:45.037: [INFO] - (TwoThumbs) Kata Changes - Welcome - Please write your first test to start the Kata...
+Your first test is: Return zero when an empty string is passed in
+2015-03-12 11:07:02.262: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:07:27.485: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Return the integer value of the numeric string
+2015-03-12 11:08:06.698: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:08:23.936: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-12 11:08:42.164: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:08:54.401: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-12 11:10:00.627: [INFO] - (TwoThumbs) Kata Changes - Great - Continue to the next test
+Your next test is: Sum numbers separated by comma
+2015-03-12 11:10:49.858: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:11:07.102: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-12 11:11:25.350: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:11:40.592: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-12 11:14:49.820: [INFO] - (TwoThumbs) Kata Changes - Great, your implementation is correct, but all the edge cases are not yet being tested.
+Can you find the edge cases that need to be tested?
+You are missing the edge case(s):
+Have you tested for three numbers?
+2015-03-12 11:15:37.051: [INFO] - (TwoThumbs) Kata Changes - Great, your implementation is correct, but all the edge cases are not yet being tested.
+Can you find the edge cases that need to be tested?
+You are missing the edge case(s):
+Have you tested for three numbers?
+2015-03-12 11:16:10.278: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle both commas(',') and new lines('\n') as delimiters
+2015-03-12 11:16:43.528: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:16:57.760: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle a single custom delimiter e.g. //;\n1;2
+2015-03-12 11:17:52.990: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:19:43.221: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-03-12 11:20:39.470: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return the negative number using the provided NegativesNotAllowedException
+2015-03-12 11:22:48.701: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:24:17.941: [INFO] - (TwoThumbs) Kata Changes - Ok, your test is passing now but your implementation is very specific.
+Please write a similar test using different value(s) that will require you to improve your implementation.
+
+2015-03-12 11:26:04.187: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:26:25.440: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return all negative numbers using the provided NegativesNotAllowedException
+2015-03-12 11:26:52.677: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Return all negative numbers using the provided NegativesNotAllowedException
+2015-03-12 11:27:28.958: [INFO] - (Warning) Kata Changes - You have a failing test, but there may be an issue with it!
+Please ensure your test is correct.
+Are you testing that the provided NegativesNotAllowedException is thrown?
+Are you verifying that the negative numbers are contained in the NegativeNumbers property?
+
+2015-03-12 11:27:58.198: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:28:12.465: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Filter numbers > 1000
+2015-03-12 11:29:39.746: [INFO] - (TwoThumbs) Kata Changes - Great, you found an edge case to test.
+Please write the implementation to get it passing.
+
+2015-03-12 11:30:20.997: [INFO] - (TwoThumbs) Kata Changes - Great, your implementation is correct, but all the edge cases are not yet being tested.
+Can you find the edge cases that need to be tested?
+You are missing the edge case(s):
+Have you tested that 1000 is not filtered out?
+2015-03-12 11:31:17.264: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:31:29.528: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle a custom delimiter with length > 1 character e.g. //[***]\n1***2***3
+2015-03-12 11:32:22.775: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:37:38.027: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle many custom delimiters with length > 1 character e.g. //[*][%]\n1*2%3
+2015-03-12 11:38:16.285: [INFO] - (TwoThumbs) Kata Changes - Great - You might consider refactoring at this point otherwise continue to the next test
+Your next test is: Handle many custom delimiters with length > 1 character e.g. //[*][%]\n1*2%3
+2015-03-12 11:39:29.546: [INFO] - (TwoThumbs) Kata Changes - Looking good - Continue on to writing the implementation…
+
+2015-03-12 11:40:49.793: [INFO] - (TwoThumbs) Kata Changes - Congratulations! You have successfully completed the Kata.
+ Remember to review your code to check for any refactorings that could be done.
+Try your Kata without hints next time.
