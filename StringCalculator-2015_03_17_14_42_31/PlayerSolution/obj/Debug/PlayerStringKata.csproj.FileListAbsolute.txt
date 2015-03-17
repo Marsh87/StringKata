@@ -1,0 +1,9 @@
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\bin\Debug\PlayerStringKata.dll
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\bin\Debug\PlayerStringKata.pdb
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\bin\Debug\Engine.dll
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\bin\Debug\Katarai.StringCalculator.Interfaces.dll
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\bin\Debug\nunit.framework.dll
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\bin\Debug\nunit.framework.xml
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\obj\Debug\PlayerStringKata.csprojResolveAssemblyReference.cache
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\obj\Debug\PlayerStringKata.dll
+C:\Users\mahesh\AppData\Local\Katarai\StringCalculator-2015_03_17_14_42_31\PlayerSolution\obj\Debug\PlayerStringKata.pdb
